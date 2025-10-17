@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This the file content that already exist in previously created mc1.txt file in subbranch
+=======
+IT
+Information Technology
+Computer Science Of Engineering
+>>>>>>> subbranch
