@@ -1,0 +1,1 @@
+This is the text format file for the merge conflict example experiment in git hub
